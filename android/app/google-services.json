@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631146591376",
+    "project_id": "furia-talk",
+    "storage_bucket": "furia-talk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631146591376:android:26e05e7c3e7f42b76c5415",
+        "android_client_info": {
+          "package_name": "com.cleiton.furiatalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWDpMeTtZUnZNSoS2CN7L9BpgnzylHts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631146591376:android:de3be3e68c775e786c5415",
+        "android_client_info": {
+          "package_name": "com.example.furia_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWDpMeTtZUnZNSoS2CN7L9BpgnzylHts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
